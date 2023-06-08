@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "54w8xYuC2+sU/SMU7QXyXG5r1QOSOFdAbrKmihxSDtArzM2omC6MKtwL2ihUcJfbfUQvgUkQ1KkosCfjGNmCmA==",
+  "dgSpecHash": "ATgHYGUhVYBaxSa0A7aEkkyydwG68vZr2iCudjcpffo2wA+QTb/gFb32M5wi9/Fiuwf2CkCgrprFz384ahnehg==",
   "success": true,
-  "projectFilePath": "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Service\\Service.csproj",
+  "projectFilePath": "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nguye\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

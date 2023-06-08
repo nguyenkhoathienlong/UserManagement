@@ -59,7 +59,7 @@ namespace Service.Core
                     throw new AppException(ErrorMessage.InvalidAccount);
                 }
                 var userRoles = await _dataContext.RoleAssignments
-                    .Where(x => x.UserId.Equals(user.Id))
+                    .Where(x => !x.IsDeleted && x.UserId.Equals(user.Id))
                     .Join(_dataContext.Roles,
                         x => x.RoleId,
                         y => y.Id,

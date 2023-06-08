@@ -8866,11 +8866,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Data\\Data.csproj",
+      "projectUniqueName": "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Data\\Data.csproj",
+      "projectPath": "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Data\\obj\\",
+      "outputPath": "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\UserManagement\\UserManagement.csproj": {}
+    "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\UserManagement\\UserManagement.csproj": {}
   },
   "projects": {
-    "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Data\\Data.csproj": {
+    "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Data\\Data.csproj",
+        "projectUniqueName": "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Data\\Data.csproj",
+        "projectPath": "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Data\\obj\\",
+        "outputPath": "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,14 +93,14 @@
         }
       }
     },
-    "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Service\\Service.csproj": {
+    "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Service\\Service.csproj",
+        "projectUniqueName": "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Service\\Service.csproj",
+        "projectPath": "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Service\\obj\\",
+        "outputPath": "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -117,8 +117,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Data\\Data.csproj": {
-                "projectPath": "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Data\\Data.csproj"
+              "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Data\\Data.csproj": {
+                "projectPath": "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Data\\Data.csproj"
               }
             }
           }
@@ -170,14 +170,14 @@
         }
       }
     },
-    "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\UserManagement\\UserManagement.csproj": {
+    "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\UserManagement\\UserManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\UserManagement\\UserManagement.csproj",
+        "projectUniqueName": "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\UserManagement\\UserManagement.csproj",
         "projectName": "UserManagement",
-        "projectPath": "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\UserManagement\\UserManagement.csproj",
+        "projectPath": "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\UserManagement\\UserManagement.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\UserManagement\\obj\\",
+        "outputPath": "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\UserManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -194,11 +194,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Data\\Data.csproj": {
-                "projectPath": "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Data\\Data.csproj"
+              "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Data\\Data.csproj": {
+                "projectPath": "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Data\\Data.csproj"
               },
-              "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Service\\Service.csproj": {
-                "projectPath": "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Service\\Service.csproj"
+              "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Service\\Service.csproj": {
+                "projectPath": "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Service\\Service.csproj"
               }
             }
           }

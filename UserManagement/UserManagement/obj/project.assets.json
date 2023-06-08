@@ -9525,11 +9525,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\UserManagement\\UserManagement.csproj",
+      "projectUniqueName": "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\UserManagement\\UserManagement.csproj",
       "projectName": "UserManagement",
-      "projectPath": "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\UserManagement\\UserManagement.csproj",
+      "projectPath": "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\UserManagement\\UserManagement.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\UserManagement\\obj\\",
+      "outputPath": "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\UserManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9546,11 +9546,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Data\\Data.csproj": {
-              "projectPath": "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Data\\Data.csproj"
+            "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Data\\Data.csproj": {
+              "projectPath": "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Data\\Data.csproj"
             },
-            "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Service\\Service.csproj": {
-              "projectPath": "D:\\Study Document\\SrcCode VisualStudio\\UserManagement\\Service\\Service.csproj"
+            "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Service\\Service.csproj": {
+              "projectPath": "D:\\Study Document\\Source GitHub\\UserManagement\\UserManagement\\Service\\Service.csproj"
             }
           }
         }
